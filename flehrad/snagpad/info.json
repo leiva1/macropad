@@ -1,0 +1,66 @@
+{
+    "keyboard_name": "Snagpad",
+    "url": "",
+    "maintainer": "Flehrad",
+    "layouts": {
+
+
+
+
+
+        "LAYOUT_ortho_5x4": {
+            "layout": [
+                {"label":"Num Lock", "x":0, "y":0},
+                {"label":"/", "x":1, "y":0},
+                {"label":"*", "x":2, "y":0},
+                {"label":"-", "x":3, "y":0},
+                {"label":"7", "x":0, "y":1},
+                {"label":"8", "x":1, "y":1},
+                {"label":"9", "x":2, "y":1},
+                {"label":"+", "x":3, "y":1},
+                {"label":"4", "x":0, "y":2},
+                {"label":"5", "x":1, "y":2},
+                {"label":"6", "x":2, "y":2},
+                {"label":"+", "x":3, "y":2},
+                {"label":"1", "x":0, "y":3},
+                {"label":"2", "x":1, "y":3},
+                {"label":"3", "x":2, "y":3},
+                {"label":"Enter", "x":3, "y":3},
+                {"label":"0", "x":0, "y":4},
+                {"label":"0", "x":1, "y":4},
+                {"label":".", "x":2, "y":4},
+                {"label":"Enter", "x":3, "y":4}
+                {"label":"x1", "x":4, "y":0}
+                {"label":"x2", "x":4, "y":1}
+                {"label":"x3", "x":4, "y":2}
+                {"label":"x4", "x":4, "y":3}                
+				{"label":"x4", "x":4, "y":4}
+                {"label":"x1", "x":5, "y":0}
+                {"label":"x2", "x":5, "y":1}
+                {"label":"x3", "x":5, "y":2}
+                {"label":"x4", "x":5, "y":3}                
+				{"label":"x4", "x":5, "y":4}
+                {"label":"x1", "x":0, "y":5}
+                {"label":"x2", "x":1, "y":5}
+                {"label":"x3", "x":2, "y":5}
+                {"label":"x4", "x":3, "y":5}                
+				{"label":"x4", "x":4, "y":5}
+				{"label":"x4", "x":5, "y":5}
+				{"label":"x4", "x":6, "y":5}
+                {"label":"x1", "x":0, "y":6}
+                {"label":"x2", "x":1, "y":6}
+                {"label":"x3", "x":2, "y":6}
+                {"label":"x4", "x":3, "y":6}                
+				{"label":"x4", "x":4, "y":6}
+				{"label":"x4", "x":5, "y":6}
+				{"label":"x4", "x":6, "y":6}
+                {"label":"x1", "x":6, "y":0}
+                {"label":"x2", "x":6, "y":1}
+                {"label":"x3", "x":6, "y":2}
+                {"label":"x4", "x":6, "y":3}                
+				{"label":"x4", "x":6, "y":4}
+
+            ]
+        }
+    }
+}
